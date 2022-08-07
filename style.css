@@ -108,7 +108,7 @@ i{
    
 }
 .work:nth-child(1){
-    background-image: url('media/game.jpg');
+    background-image: url('https://images.unsplash.com/photo-1553481187-be93c21490a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2FtZXxlbnwwfHwwfHw%3D&w=1000&q=80');
 }
 .work:nth-child(2){
     background-image: url('media/cloth.jpg');
